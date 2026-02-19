@@ -1,0 +1,2 @@
+python App.py
+pause;
