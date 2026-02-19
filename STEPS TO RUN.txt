@@ -1,0 +1,22 @@
+1. double click on run.bat
+2. copy url and paste in browser address bar
+
+	http://127.0.0.1:8000
+
+write in address bar in browser 
+
+then enter 
+
+then project will open 
+
+then login as admin 
+
+
+USERNAME: Admin
+PASSWORD: Admin
+
+then check all operations
+
+
+tomorrow i will explain you
+
