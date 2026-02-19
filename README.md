@@ -1,0 +1,2 @@
+# Sentiment-Analysis-Social-Media-Trend-Prediction-Using-Machine-Learning
+""Decoding Social Media Landscape"" is a web application built with Python and Flask that analyzes social media posts to identify user sentiment and engagement patterns. It uses machine learning models like Random Forest and Gradient Boosting to classify sentiments and provides visual charts to help understand trends and audience interaction.
